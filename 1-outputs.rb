@@ -17,3 +17,7 @@ puts "Hello"
 Anything written here will be commented out. So,
 this the second method of commenting out a block of text  
 =end
+
+a, b, c = 10, 30, 20
+
+puts a, b, c
