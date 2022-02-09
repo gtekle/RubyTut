@@ -31,3 +31,5 @@ puts "#{NAME} is #{AGE} years old."
 
 name = gets
 puts "Your name is #{name}"
+
+puts "your name is #{name.chomp}"
