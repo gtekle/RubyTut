@@ -28,3 +28,6 @@ AGE = 30
 print NAME + " is "+ AGE.to_s + " years old."
 
 puts "#{NAME} is #{AGE} years old."
+
+name = gets
+puts "Your name is #{name}"
